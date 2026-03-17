@@ -1,0 +1,20 @@
+{
+    "Group": "HytaleModding",
+    "Name": "MagicHitParticle",
+    "Version": "1.0.0",
+    "Description": "Use the default magic hit particle whenever you hit any mob",
+    "Authors": [
+        {
+            "Name": "Elite",
+            "Email": "",
+            "Url": "https://www.curseforge.com/members/elitewise/projects"
+        }
+    ],
+    "Website": "https://www.curseforge.com/members/elitewise/projects",
+    "DisabledByDefault": false,
+    "IncludesAssetPack": false,
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "ServerVersion": "*",
+    "Main": "dev.hytalemodding.MagicHitParticle"
+}
